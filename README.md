@@ -1,5 +1,6 @@
 # Métodos DLL (proyecto):
 Lincenciatura en matemáticas. Joshua Estuardo 1018-26-13635
+
 class Nodo:
     def __init__(self, dato):
         self.dato = dato
